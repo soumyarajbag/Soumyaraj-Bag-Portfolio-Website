@@ -176,11 +176,11 @@ export const skills = [
         image:
           "https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png",
       },
-      {
-        name: "Dart",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png",
-      },
+      // {
+      //   name: "Dart",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png",
+      // },
     ],
   },
 ];
